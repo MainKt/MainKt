@@ -1,16 +1,17 @@
-### Hi there 👋
+# Main.kt
 
-<!--
-**MainKt/MainKt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  I'm Muhammad Saheed, a tech enthusiast with a deep love for FOSS. I enjoy problem-solving and love tinkering with code :)
+</p>
+   
+<div align="center">
+  <a href="https://github.com/MainKt?tab=repositories" align="center">
+    <img height=275 src="https://github-readme-stats.vercel.app/api/top-langs/?username=MainKt&theme=transparent&hide_border=true&layout=compact&langs_count=10&locale=en&custom_title=Technologies" alt="Technologies" />
+  </a>
+</div>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats" align="center">
+    <img height=217 src="https://github-readme-stats.vercel.app/api?username=mainkt&hide_border=true&custom_title=Open%20Source&theme=transparent" />
+  </a>
+</div>
