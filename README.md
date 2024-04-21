@@ -6,7 +6,7 @@
    
 <div align="center">
   <a href="https://github.com/MainKt?tab=repositories" align="center">
-    <img height=275 src="https://github-readme-stats.vercel.app/api/top-langs/?username=MainKt&theme=transparent&hide_border=true&layout=compact&langs_count=10&locale=en&custom_title=Technologies" alt="Technologies" />
+    <img height=275 src="https://github-readme-stats.vercel.app/api/top-langs/?username=MainKt&theme=transparent&hide_border=true&layout=compact&langs_count=12&locale=en&custom_title=Technologies" alt="Technologies" />
   </a>
 </div>
 
