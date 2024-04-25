@@ -11,7 +11,7 @@
 </div>
 
 <div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats" align="center">
-    <img height=217 src="https://github-readme-stats.vercel.app/api?username=mainkt&hide_border=true&custom_title=Open%20Source&theme=transparent" />
+  <a href="https://github.com/MainKt" align="center">
+    <img height=217 src="https://github-readme-stats-nu-five-96.vercel.app/api?username=mainkt&hide_border=true&custom_title=Open%20Source&theme=transparent" />
   </a>
 </div>
