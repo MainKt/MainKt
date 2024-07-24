@@ -12,6 +12,6 @@
 
 <div align="center">
   <a href="https://github.com/MainKt" align="center">
-    <img height=217 src="https://github-readme-stats-nu-five-96.vercel.app/api?username=mainkt&hide_border=true&custom_title=Stats&theme=transparent" />
+<!--     <img height=217 src="https://github-readme-stats-nu-five-96.vercel.app/api?username=mainkt&hide_border=true&custom_title=Stats&theme=transparent" /> -->
   </a>
 </div>
